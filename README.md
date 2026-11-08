@@ -80,27 +80,27 @@ The analysis generates three visualizations:
 
 1. Clone the Repository
 
-git clone[ https://github.com/YOUR-USERNAME/Market-Basket-Analysis-Using-Apriori.git
+   git clone[ https://github.com/YOUR-USERNAME/Market-Basket-Analysis-Using-Apriori.git
 ](https://github.com/pujan111g-crypto/Market-Basket-Analysis-Using-Apriori)
 
 
 2. Navigate to the Project
 
-cd Market-Basket-Analysis-Using-Apriori
+   cd Market-Basket-Analysis-Using-Apriori
 
 3. Install Dependencies
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Add the Dataset
 
-Place an authorized copy of the transaction dataset named "dirty_data.csv" inside the "data/" directory.
+   Place an authorized copy of the transaction dataset named "dirty_data.csv" inside the "data/" directory.
 
 5. Run the Analysis
 
-python srcs/market_basket_analysis.py
+   python "source code/market_basket_analysis.py"
 
-
+   
 ⚠️ Limitations & Considerations
 
 - The analysis uses a relatively small dataset of 500 transactions.
