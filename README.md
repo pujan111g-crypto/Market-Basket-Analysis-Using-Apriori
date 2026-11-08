@@ -80,8 +80,8 @@ The analysis generates three visualizations:
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/Market-Basket-Analysis-Using-Apriori.git
-
+git clone[ https://github.com/YOUR-USERNAME/Market-Basket-Analysis-Using-Apriori.git
+](https://github.com/pujan111g-crypto/Market-Basket-Analysis-Using-Apriori)
 2. Navigate to the Project
 
 cd Market-Basket-Analysis-Using-Apriori
@@ -97,6 +97,43 @@ Place an authorized copy of the transaction dataset named "dirty_data.csv" insid
 5. Run the Analysis
 
 python srcs/market_basket_analysis.py
+
+6. 📂 Repository Structure
+
+The repository is organized into separate directories and files to maintain a clean, modular, and easy-to-understand project layout. Each folder serves a specific purpose, making the project easier to navigate, maintain, and reproduce.
+
+Market-Basket-Analysis-Using-Apriori/
+│
+├── 📁 data/
+│   └── dirty_data.csv
+│       └── Original transaction dataset
+│           (kept locally, not publicly uploaded)
+│
+├── 📁 docs/
+│   ├── Market_Basket_Analysis_Presentation.pptx
+│   │   └── Project presentation
+│   │
+│   └── Market_Basket_Analysis_Report.pdf
+│       └── Detailed project documentation
+│
+├── 📁 results/
+│   ├── all_association_rules_2pct.csv
+│   ├── basket_matrix.csv
+│   ├── frequent_itemsets_2pct.csv
+│   ├── top_association_rules.csv
+│   ├── chart_basket_size.png
+│   ├── chart_product_popularity.png
+│   └── chart_top_rules_lift.png
+│
+├── 📁 srcs/
+│   └── market_basket_analysis.py
+│       └── Main Python implementation
+│
+├── 📄 .gitignore
+├── 📄 requirements.txt
+└── 📄 README.md
+
+
 
 ⚠️ Limitations & Considerations
 
