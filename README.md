@@ -74,18 +74,7 @@ The analysis generates three visualizations:
 - Basket Size Distribution: Examines the number of products per order.
 - Top Association Rules: Highlights stronger product associations using Lift.
 
-📁 Repository Structure
 
-Market-Basket-Analysis-Using-Apriori/
-│
-├── data/
-├── docs/
-├── results/
-├── srcs/
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
 
 🚀 Getting Started
 
