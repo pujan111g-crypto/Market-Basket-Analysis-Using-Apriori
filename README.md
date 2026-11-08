@@ -82,6 +82,8 @@ The analysis generates three visualizations:
 
 git clone[ https://github.com/YOUR-USERNAME/Market-Basket-Analysis-Using-Apriori.git
 ](https://github.com/pujan111g-crypto/Market-Basket-Analysis-Using-Apriori)
+
+
 2. Navigate to the Project
 
 cd Market-Basket-Analysis-Using-Apriori
